@@ -31,7 +31,3 @@ Url Shortener Service is a RESTful service for creating short URLs and retrievin
 Swagger is available at `http://localhost:8080/swagger-ui/index.html` once the application is running.
 
 ---
-
-### License
-
-This project is licensed under the MIT License.
