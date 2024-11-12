@@ -23,8 +23,9 @@ Url Shortener Service is a RESTful service for creating short URLs and retrievin
 ## Setup
 
 1. Clone the repository.
-2. Run `./gradlew build` to build the project.
-3. Start the application with Docker by running `docker-compose up`.
+2. Start Docker by running `docker-compose up`.
+3. Run `./gradlew build` to build the project.
+4. Run `java -jar build/libs/service.jar` to run the project.
 
 ## API Documentation
 
